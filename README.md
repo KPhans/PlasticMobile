@@ -1,1 +1,1 @@
-Neural Network for Image Classification.
+Neural Network for Image Classification
